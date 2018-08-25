@@ -1,0 +1,17 @@
+{
+      "vendorName": "Intel Corporation",
+      "vendorCode": "intel",
+      "scriptsFolder": "intel_scripts",
+      "vibsFolder": "intel_vibs",
+      "isoFolder": "",
+      "serverModels": [
+        {
+          "modelCode": "S2600WF",
+          "scriptsFolder": "",
+          "vibsFolder": "",
+          "isoFolder": "",
+          "platform": "x86",
+          "supportsAllFlash": "true"
+        }
+      ]
+    }
